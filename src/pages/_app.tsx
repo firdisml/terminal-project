@@ -42,7 +42,7 @@ const MyApp: AppType<{ session: Session | null }> = ({
           onClick={onClickAnywhere}
         >
           <main
-        className={`font-sans ${inter.variable} bg-light-background dark:bg-dark-background h-full w-full p-2`}
+        className={`font-sans ${inter.variable} bg-light-background dark:bg-dark-background h-full p-2`}
       >
         <Component {...pageProps} inputRef={inputRef} />
       </main>

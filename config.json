@@ -1,14 +1,14 @@
 {
     "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-    "title": "Sugma",
-    "name": "John Doe",
-    "ascii": "liveterm",
+    "title": "Geeppeetto",
+    "name": "Geeppeettoo",
+    "ascii": "Geeppeetto",
     "social": {
       "github": "github",
       "linkedin": "linkedin"
     },
     "email": "contact@email.com",
-    "ps1_hostname": "root",
+    "ps1_hostname": "geeppeetto",
     "ps1_username": "visitor",
     "repo": "https://github.com/Cveinnt/LiveTerm",
     "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
@@ -27,10 +27,10 @@
         "red": "#CA2124"
       },
       "dark": {
-        "background": "#2E3440",
+        "background": "#2d3436",
         "foreground": "#E5E9F0",
-        "yellow": "#5E81AC",
-        "green": "#A3BE8C",
+        "yellow": "#FEFEFE",
+        "green": "#00b894",
         "gray": "#88C0D0",
         "blue": "#EBCB8B",
         "red": "#BF616A"
